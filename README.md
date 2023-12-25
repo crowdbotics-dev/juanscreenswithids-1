@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [firebase-push-notifications]()
 - [react-native-audio-player](modules/audio-player)
 - [react-native-chat](modules/chat)
+- [react-native-typeform-webhook](modules/typeform-webhook)
 
 # Getting started: Frontend
 
